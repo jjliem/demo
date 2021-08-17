@@ -2,6 +2,7 @@
   "user": {
     "id": 1,
     "firstName": "Jane",
-    "lastName": "Doe"
+    "lastName": "Doe",
+    "serviceType": "FiOS"
   }
 }
