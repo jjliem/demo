@@ -4,11 +4,4 @@
     "firstName": "Jane",
     "lastName": "Doe",
     "serviceType": "FiOS"
-  },
-  {
-    "id": 2,
-    "firstName": "Jill",
-    "lastName": "Doe",
-    "serviceType": "All Discipline"
   }
-}
